@@ -48,7 +48,7 @@ Password: A combination of TeacherName + ClassAssigned + SectionAssigned
 Example: Ravi10A
 B. For Students:
 Login ID: A combination of StudentName + YearOfBirth + Class + Section
-Example: Amit2008XIB
+Example: Amit200810B
 Password: Their Roll Number
 ________________________________________
 3. Teacher Portal
